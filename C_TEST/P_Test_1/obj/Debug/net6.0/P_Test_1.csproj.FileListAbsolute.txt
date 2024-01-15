@@ -1,0 +1,14 @@
+D:\C#\Programming_Test\C_TEST\P_Test_1\bin\Debug\net6.0\P_Test_1.exe
+D:\C#\Programming_Test\C_TEST\P_Test_1\bin\Debug\net6.0\P_Test_1.deps.json
+D:\C#\Programming_Test\C_TEST\P_Test_1\bin\Debug\net6.0\P_Test_1.runtimeconfig.json
+D:\C#\Programming_Test\C_TEST\P_Test_1\bin\Debug\net6.0\P_Test_1.dll
+D:\C#\Programming_Test\C_TEST\P_Test_1\bin\Debug\net6.0\P_Test_1.pdb
+D:\C#\Programming_Test\C_TEST\P_Test_1\obj\Debug\net6.0\P_Test_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming_Test\C_TEST\P_Test_1\obj\Debug\net6.0\P_Test_1.AssemblyInfoInputs.cache
+D:\C#\Programming_Test\C_TEST\P_Test_1\obj\Debug\net6.0\P_Test_1.AssemblyInfo.cs
+D:\C#\Programming_Test\C_TEST\P_Test_1\obj\Debug\net6.0\P_Test_1.csproj.CoreCompileInputs.cache
+D:\C#\Programming_Test\C_TEST\P_Test_1\obj\Debug\net6.0\P_Test_1.dll
+D:\C#\Programming_Test\C_TEST\P_Test_1\obj\Debug\net6.0\refint\P_Test_1.dll
+D:\C#\Programming_Test\C_TEST\P_Test_1\obj\Debug\net6.0\P_Test_1.pdb
+D:\C#\Programming_Test\C_TEST\P_Test_1\obj\Debug\net6.0\P_Test_1.genruntimeconfig.cache
+D:\C#\Programming_Test\C_TEST\P_Test_1\obj\Debug\net6.0\ref\P_Test_1.dll
