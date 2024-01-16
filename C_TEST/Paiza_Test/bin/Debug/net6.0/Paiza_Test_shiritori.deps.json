@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Paiza_Test_shiritori/1.0.0": {
+        "runtime": {
+          "Paiza_Test_shiritori.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Paiza_Test_shiritori/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

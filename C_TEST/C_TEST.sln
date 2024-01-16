@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jaden", "Jaden\Jaden.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "Stack\Stack.csproj", "{3040F293-53CA-4911-B2D7-55AC25808318}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paiza_Test", "Paiza_Test\Paiza_Test.csproj", "{C3C33C09-9380-4867-A1A0-7F852457EB59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Paiza_Test_shiritori", "Paiza_Test\Paiza_Test_shiritori.csproj", "{C3C33C09-9380-4867-A1A0-7F852457EB59}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

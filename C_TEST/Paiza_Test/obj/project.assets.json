@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\Programming_Test\\C_TEST\\Paiza_Test\\Paiza_Test.csproj",
-      "projectName": "Paiza_Test",
-      "projectPath": "D:\\C#\\Programming_Test\\C_TEST\\Paiza_Test\\Paiza_Test.csproj",
+      "projectUniqueName": "D:\\C#\\Programming_Test\\C_TEST\\Paiza_Test\\Paiza_Test_shiritori.csproj",
+      "projectName": "Paiza_Test_shiritori",
+      "projectPath": "D:\\C#\\Programming_Test\\C_TEST\\Paiza_Test\\Paiza_Test_shiritori.csproj",
       "packagesPath": "C:\\Users\\newru\\.nuget\\packages\\",
       "outputPath": "D:\\C#\\Programming_Test\\C_TEST\\Paiza_Test\\obj\\",
       "projectStyle": "PackageReference",

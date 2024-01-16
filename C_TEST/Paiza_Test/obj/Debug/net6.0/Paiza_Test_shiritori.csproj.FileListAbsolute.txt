@@ -1,0 +1,14 @@
+D:\C#\Programming_Test\C_TEST\Paiza_Test\bin\Debug\net6.0\Paiza_Test_shiritori.exe
+D:\C#\Programming_Test\C_TEST\Paiza_Test\bin\Debug\net6.0\Paiza_Test_shiritori.deps.json
+D:\C#\Programming_Test\C_TEST\Paiza_Test\bin\Debug\net6.0\Paiza_Test_shiritori.runtimeconfig.json
+D:\C#\Programming_Test\C_TEST\Paiza_Test\bin\Debug\net6.0\Paiza_Test_shiritori.dll
+D:\C#\Programming_Test\C_TEST\Paiza_Test\bin\Debug\net6.0\Paiza_Test_shiritori.pdb
+D:\C#\Programming_Test\C_TEST\Paiza_Test\obj\Debug\net6.0\Paiza_Test_shiritori.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming_Test\C_TEST\Paiza_Test\obj\Debug\net6.0\Paiza_Test_shiritori.AssemblyInfoInputs.cache
+D:\C#\Programming_Test\C_TEST\Paiza_Test\obj\Debug\net6.0\Paiza_Test_shiritori.AssemblyInfo.cs
+D:\C#\Programming_Test\C_TEST\Paiza_Test\obj\Debug\net6.0\Paiza_Test_shiritori.csproj.CoreCompileInputs.cache
+D:\C#\Programming_Test\C_TEST\Paiza_Test\obj\Debug\net6.0\Paiza_Test_shiritori.dll
+D:\C#\Programming_Test\C_TEST\Paiza_Test\obj\Debug\net6.0\refint\Paiza_Test_shiritori.dll
+D:\C#\Programming_Test\C_TEST\Paiza_Test\obj\Debug\net6.0\Paiza_Test_shiritori.pdb
+D:\C#\Programming_Test\C_TEST\Paiza_Test\obj\Debug\net6.0\Paiza_Test_shiritori.genruntimeconfig.cache
+D:\C#\Programming_Test\C_TEST\Paiza_Test\obj\Debug\net6.0\ref\Paiza_Test_shiritori.dll
