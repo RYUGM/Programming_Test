@@ -10,6 +10,8 @@ namespace Jaden
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("asd");
+
         }
         public class Solution
         {

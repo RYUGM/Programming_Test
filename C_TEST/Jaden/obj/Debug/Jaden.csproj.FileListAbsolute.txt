@@ -1,0 +1,7 @@
+D:\C#\Programming_Test\C_TEST\Jaden\bin\Debug\Jaden.exe.config
+D:\C#\Programming_Test\C_TEST\Jaden\bin\Debug\Jaden.exe
+D:\C#\Programming_Test\C_TEST\Jaden\bin\Debug\Jaden.pdb
+D:\C#\Programming_Test\C_TEST\Jaden\obj\Debug\Jaden.csproj.CoreCompileInputs.cache
+D:\C#\Programming_Test\C_TEST\Jaden\obj\Debug\Jaden.exe
+D:\C#\Programming_Test\C_TEST\Jaden\obj\Debug\Jaden.pdb
+D:\C#\Programming_Test\C_TEST\Jaden\obj\Debug\Jaden.csproj.AssemblyReference.cache
