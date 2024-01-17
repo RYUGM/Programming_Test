@@ -5,9 +5,11 @@ VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C_TEST", "C_TEST\C_TEST.csproj", "{6E47DFD4-E366-43B2-8F9E-218D4A7BED83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P_Test_1", "P_Test_1\P_Test_1.csproj", "{9FF86B0A-5B02-4BA0-971F-0FB75C66DE63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P_Test_1", "P_Test_1\P_Test_1.csproj", "{9FF86B0A-5B02-4BA0-971F-0FB75C66DE63}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEST", "TEST\TEST.csproj", "{7CDB6279-E147-40CC-AC08-34EC341DD463}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paiza_Score_Coutn", "Paiza_Score_Coutn\Paiza_Score_Coutn.csproj", "{46C92A9B-D85E-429C-9CC8-5964F1635F99}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{7CDB6279-E147-40CC-AC08-34EC341DD463}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CDB6279-E147-40CC-AC08-34EC341DD463}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CDB6279-E147-40CC-AC08-34EC341DD463}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46C92A9B-D85E-429C-9CC8-5964F1635F99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C92A9B-D85E-429C-9CC8-5964F1635F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C92A9B-D85E-429C-9CC8-5964F1635F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C92A9B-D85E-429C-9CC8-5964F1635F99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

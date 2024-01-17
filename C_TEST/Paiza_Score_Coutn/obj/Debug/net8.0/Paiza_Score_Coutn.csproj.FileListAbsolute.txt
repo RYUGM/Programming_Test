@@ -1,0 +1,15 @@
+D:\C#\Programming_Test\C_TEST\Paiza_Score_Coutn\bin\Debug\net8.0\Paiza_Score_Coutn.exe
+D:\C#\Programming_Test\C_TEST\Paiza_Score_Coutn\bin\Debug\net8.0\Paiza_Score_Coutn.deps.json
+D:\C#\Programming_Test\C_TEST\Paiza_Score_Coutn\bin\Debug\net8.0\Paiza_Score_Coutn.runtimeconfig.json
+D:\C#\Programming_Test\C_TEST\Paiza_Score_Coutn\bin\Debug\net8.0\Paiza_Score_Coutn.dll
+D:\C#\Programming_Test\C_TEST\Paiza_Score_Coutn\bin\Debug\net8.0\Paiza_Score_Coutn.pdb
+D:\C#\Programming_Test\C_TEST\Paiza_Score_Coutn\obj\Debug\net8.0\Paiza_Score_Coutn.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming_Test\C_TEST\Paiza_Score_Coutn\obj\Debug\net8.0\Paiza_Score_Coutn.AssemblyInfoInputs.cache
+D:\C#\Programming_Test\C_TEST\Paiza_Score_Coutn\obj\Debug\net8.0\Paiza_Score_Coutn.AssemblyInfo.cs
+D:\C#\Programming_Test\C_TEST\Paiza_Score_Coutn\obj\Debug\net8.0\Paiza_Score_Coutn.csproj.CoreCompileInputs.cache
+D:\C#\Programming_Test\C_TEST\Paiza_Score_Coutn\obj\Debug\net8.0\Paiza_Score_Coutn.sourcelink.json
+D:\C#\Programming_Test\C_TEST\Paiza_Score_Coutn\obj\Debug\net8.0\Paiza_Score_Coutn.dll
+D:\C#\Programming_Test\C_TEST\Paiza_Score_Coutn\obj\Debug\net8.0\refint\Paiza_Score_Coutn.dll
+D:\C#\Programming_Test\C_TEST\Paiza_Score_Coutn\obj\Debug\net8.0\Paiza_Score_Coutn.pdb
+D:\C#\Programming_Test\C_TEST\Paiza_Score_Coutn\obj\Debug\net8.0\Paiza_Score_Coutn.genruntimeconfig.cache
+D:\C#\Programming_Test\C_TEST\Paiza_Score_Coutn\obj\Debug\net8.0\ref\Paiza_Score_Coutn.dll

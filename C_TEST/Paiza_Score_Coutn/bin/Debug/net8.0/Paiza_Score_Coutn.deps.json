@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Paiza_Score_Coutn/1.0.0": {
+        "runtime": {
+          "Paiza_Score_Coutn.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Paiza_Score_Coutn/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
