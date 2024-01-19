@@ -1,0 +1,5 @@
+D:\GIT\Programming_Test\C_TEST\K_TEST_20240119_divide\bin\Debug\K_TEST_20240119_divide.exe.config
+D:\GIT\Programming_Test\C_TEST\K_TEST_20240119_divide\bin\Debug\K_TEST_20240119_divide.exe
+D:\GIT\Programming_Test\C_TEST\K_TEST_20240119_divide\bin\Debug\K_TEST_20240119_divide.pdb
+D:\GIT\Programming_Test\C_TEST\K_TEST_20240119_divide\obj\Debug\K_TEST_20240119_divide.exe
+D:\GIT\Programming_Test\C_TEST\K_TEST_20240119_divide\obj\Debug\K_TEST_20240119_divide.pdb
