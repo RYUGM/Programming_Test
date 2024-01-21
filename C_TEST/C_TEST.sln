@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26228.52
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C_TEST", "C_TEST\C_TEST.csproj", "{6E47DFD4-E366-43B2-8F9E-218D4A7BED83}"
 EndProject
@@ -14,6 +14,14 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K_TEST_20240119", "K_TEST_20240119\K_TEST_20240119.csproj", "{A784D5F5-E8BB-429C-9F6D-01C5F717ACDF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K_TEST_20240119_divide", "K_TEST_20240119_divide\K_TEST_20240119_divide.csproj", "{C83DF2E1-0C36-457F-96B7-4CF3ACDF9D91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrayarray", "arrayarray\arrayarray.csproj", "{A62F8AA4-7EFD-4D8D-B29C-26BB0676ECAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "array2", "array2\array2.csproj", "{D5487417-268B-4F94-A7EB-16169963CAD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "J_TEST_Karaoke", "J_TEST_Karaoke\J_TEST_Karaoke.csproj", "{D8A4DDE9-3A56-4D1D-B490-E311BCDBC579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K_TEST_01", "K_TEST_01\K_TEST_01.csproj", "{D318313D-1C61-4326-B648-5AED01FE0A10}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +53,22 @@ Global
 		{C83DF2E1-0C36-457F-96B7-4CF3ACDF9D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C83DF2E1-0C36-457F-96B7-4CF3ACDF9D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C83DF2E1-0C36-457F-96B7-4CF3ACDF9D91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A62F8AA4-7EFD-4D8D-B29C-26BB0676ECAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A62F8AA4-7EFD-4D8D-B29C-26BB0676ECAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A62F8AA4-7EFD-4D8D-B29C-26BB0676ECAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A62F8AA4-7EFD-4D8D-B29C-26BB0676ECAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5487417-268B-4F94-A7EB-16169963CAD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5487417-268B-4F94-A7EB-16169963CAD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5487417-268B-4F94-A7EB-16169963CAD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5487417-268B-4F94-A7EB-16169963CAD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8A4DDE9-3A56-4D1D-B490-E311BCDBC579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8A4DDE9-3A56-4D1D-B490-E311BCDBC579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8A4DDE9-3A56-4D1D-B490-E311BCDBC579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8A4DDE9-3A56-4D1D-B490-E311BCDBC579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D318313D-1C61-4326-B648-5AED01FE0A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D318313D-1C61-4326-B648-5AED01FE0A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D318313D-1C61-4326-B648-5AED01FE0A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D318313D-1C61-4326-B648-5AED01FE0A10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

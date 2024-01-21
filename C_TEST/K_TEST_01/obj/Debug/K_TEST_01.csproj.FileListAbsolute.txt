@@ -1,0 +1,7 @@
+D:\C#\Programming_Test\C_TEST\K_TEST_01\bin\Debug\K_TEST_01.exe.config
+D:\C#\Programming_Test\C_TEST\K_TEST_01\bin\Debug\K_TEST_01.exe
+D:\C#\Programming_Test\C_TEST\K_TEST_01\bin\Debug\K_TEST_01.pdb
+D:\C#\Programming_Test\C_TEST\K_TEST_01\obj\Debug\K_TEST_01.csproj.AssemblyReference.cache
+D:\C#\Programming_Test\C_TEST\K_TEST_01\obj\Debug\K_TEST_01.csproj.CoreCompileInputs.cache
+D:\C#\Programming_Test\C_TEST\K_TEST_01\obj\Debug\K_TEST_01.exe
+D:\C#\Programming_Test\C_TEST\K_TEST_01\obj\Debug\K_TEST_01.pdb
