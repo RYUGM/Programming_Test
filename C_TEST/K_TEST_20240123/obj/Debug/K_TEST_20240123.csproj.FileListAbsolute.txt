@@ -1,0 +1,6 @@
+D:\GIT\Programming_Test\C_TEST\K_TEST_20240123\bin\Debug\K_TEST_20240123.exe.config
+D:\GIT\Programming_Test\C_TEST\K_TEST_20240123\bin\Debug\K_TEST_20240123.exe
+D:\GIT\Programming_Test\C_TEST\K_TEST_20240123\bin\Debug\K_TEST_20240123.pdb
+D:\GIT\Programming_Test\C_TEST\K_TEST_20240123\obj\Debug\K_TEST_20240123.csprojResolveAssemblyReference.cache
+D:\GIT\Programming_Test\C_TEST\K_TEST_20240123\obj\Debug\K_TEST_20240123.exe
+D:\GIT\Programming_Test\C_TEST\K_TEST_20240123\obj\Debug\K_TEST_20240123.pdb
