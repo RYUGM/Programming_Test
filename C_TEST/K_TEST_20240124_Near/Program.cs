@@ -16,7 +16,7 @@ namespace K_TEST_20240124_Near
             for (int i = 0; i < result_array.Length; i++) {
                 result += result_array[i]+"";
             }
-
+            string a = "asdbasdfas";
             Console.WriteLine(result);
         }
         static int[] solution(string s)

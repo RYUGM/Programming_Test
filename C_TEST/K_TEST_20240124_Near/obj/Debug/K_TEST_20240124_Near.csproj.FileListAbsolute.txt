@@ -3,3 +3,10 @@ D:\GIT\Programming_Test\C_TEST\K_TEST_20240124_Near\bin\Debug\K_TEST_20240124_Ne
 D:\GIT\Programming_Test\C_TEST\K_TEST_20240124_Near\bin\Debug\K_TEST_20240124_Near.pdb
 D:\GIT\Programming_Test\C_TEST\K_TEST_20240124_Near\obj\Debug\K_TEST_20240124_Near.exe
 D:\GIT\Programming_Test\C_TEST\K_TEST_20240124_Near\obj\Debug\K_TEST_20240124_Near.pdb
+D:\C#\Programming_Test\C_TEST\K_TEST_20240124_Near\bin\Debug\K_TEST_20240124_Near.exe.config
+D:\C#\Programming_Test\C_TEST\K_TEST_20240124_Near\bin\Debug\K_TEST_20240124_Near.exe
+D:\C#\Programming_Test\C_TEST\K_TEST_20240124_Near\bin\Debug\K_TEST_20240124_Near.pdb
+D:\C#\Programming_Test\C_TEST\K_TEST_20240124_Near\obj\Debug\K_TEST_20240124_Near.csproj.AssemblyReference.cache
+D:\C#\Programming_Test\C_TEST\K_TEST_20240124_Near\obj\Debug\K_TEST_20240124_Near.csproj.CoreCompileInputs.cache
+D:\C#\Programming_Test\C_TEST\K_TEST_20240124_Near\obj\Debug\K_TEST_20240124_Near.exe
+D:\C#\Programming_Test\C_TEST\K_TEST_20240124_Near\obj\Debug\K_TEST_20240124_Near.pdb
