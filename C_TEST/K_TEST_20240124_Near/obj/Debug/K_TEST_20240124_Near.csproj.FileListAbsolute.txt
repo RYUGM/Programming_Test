@@ -10,3 +10,4 @@ D:\C#\Programming_Test\C_TEST\K_TEST_20240124_Near\obj\Debug\K_TEST_20240124_Nea
 D:\C#\Programming_Test\C_TEST\K_TEST_20240124_Near\obj\Debug\K_TEST_20240124_Near.csproj.CoreCompileInputs.cache
 D:\C#\Programming_Test\C_TEST\K_TEST_20240124_Near\obj\Debug\K_TEST_20240124_Near.exe
 D:\C#\Programming_Test\C_TEST\K_TEST_20240124_Near\obj\Debug\K_TEST_20240124_Near.pdb
+D:\GIT\Programming_Test\C_TEST\K_TEST_20240124_Near\obj\Debug\K_TEST_20240124_Near.csprojResolveAssemblyReference.cache
