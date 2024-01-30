@@ -5,3 +5,9 @@ D:\C#\Programming_Test\C_TEST\TEST\obj\Debug\TEST.csproj.AssemblyReference.cache
 D:\C#\Programming_Test\C_TEST\TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
 D:\C#\Programming_Test\C_TEST\TEST\obj\Debug\TEST.exe
 D:\C#\Programming_Test\C_TEST\TEST\obj\Debug\TEST.pdb
+D:\GIT\Programming_Test\C_TEST\TEST\bin\Debug\TEST.exe.config
+D:\GIT\Programming_Test\C_TEST\TEST\bin\Debug\TEST.exe
+D:\GIT\Programming_Test\C_TEST\TEST\bin\Debug\TEST.pdb
+D:\GIT\Programming_Test\C_TEST\TEST\obj\Debug\TEST.csprojResolveAssemblyReference.cache
+D:\GIT\Programming_Test\C_TEST\TEST\obj\Debug\TEST.exe
+D:\GIT\Programming_Test\C_TEST\TEST\obj\Debug\TEST.pdb

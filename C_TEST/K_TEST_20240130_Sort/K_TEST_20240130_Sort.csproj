@@ -4,15 +4,13 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7CDB6279-E147-40CC-AC08-34EC341DD463}</ProjectGuid>
+    <ProjectGuid>{8A1A6A78-C6A7-4FF9-A33C-836C54752505}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TEST</RootNamespace>
-    <AssemblyName>TEST</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <RootNamespace>K_TEST_20240130_Sort</RootNamespace>
+    <AssemblyName>K_TEST_20240130_Sort</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
-    <Deterministic>true</Deterministic>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
