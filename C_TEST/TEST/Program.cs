@@ -17,6 +17,15 @@ namespace TEST
           //  solution(num);
 
             solution(3,1,20);
+
+            string[] temp = { "9","2", "15", "10" };
+            string temp_string = "";
+            Array.Sort(temp);
+            for (int i = 0; i < temp.Length; i++)
+            {
+                temp_string += temp[i]+" ";
+            }
+            Console.WriteLine(temp_string);
         }
 
         static string solution(int[] numbers)
