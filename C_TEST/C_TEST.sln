@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K_TEST_20240124_Near", "K_T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K_TEST_20240130_Sort", "K_TEST_20240130_Sort\K_TEST_20240130_Sort.csproj", "{8A1A6A78-C6A7-4FF9-A33C-836C54752505}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K_TEST_20240201_DoubleList", "K_TEST_20240201_DoubleList\K_TEST_20240201_DoubleList.csproj", "{5B3F6AEB-BE84-4212-8908-9A380479F480}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{8A1A6A78-C6A7-4FF9-A33C-836C54752505}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A1A6A78-C6A7-4FF9-A33C-836C54752505}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A1A6A78-C6A7-4FF9-A33C-836C54752505}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B3F6AEB-BE84-4212-8908-9A380479F480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B3F6AEB-BE84-4212-8908-9A380479F480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B3F6AEB-BE84-4212-8908-9A380479F480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B3F6AEB-BE84-4212-8908-9A380479F480}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
